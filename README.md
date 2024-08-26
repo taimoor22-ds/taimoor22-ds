@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @taimoor22-ds
-- 👀 I’m interested in Data analytics, Data Science and ML. There are other interestes too related to reading :books:, gaming :video_game:, jogging :running:, spending time with friends :raising_hand: and travelling. :smiley:
-- 🌱 I’m currently learning and this field requires a continuous effort.
+- 👋 Hi, I’m Taimoor Malik.
+- 👀 I’m interested in Data Analytics, Data Science and ML. There are other interests too related to reading books, video gaming, health & fitness, spending time with friends :raising_hand: and travelling. :smiley:
+- 🌱 Analytics is always evolving and continuous learning is what it requires.
 - 💞️ I’m looking to collaborate on DS projects either a scoped skill or a product where my skills are applicable.
 - 📫 How to reach me - Email me at taimoor.malikk90@gmail.com.
 
